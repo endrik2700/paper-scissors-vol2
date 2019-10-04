@@ -1,0 +1,11 @@
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\bin\Debug\netcoreapp2.0\for-loop.deps.json
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\bin\Debug\netcoreapp2.0\for-loop.runtimeconfig.json
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\bin\Debug\netcoreapp2.0\for-loop.runtimeconfig.dev.json
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\bin\Debug\netcoreapp2.0\for-loop.dll
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\bin\Debug\netcoreapp2.0\for-loop.pdb
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\obj\Debug\netcoreapp2.0\for-loop.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\obj\Debug\netcoreapp2.0\for-loop.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\obj\Debug\netcoreapp2.0\for-loop.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\obj\Debug\netcoreapp2.0\for-loop.AssemblyInfo.cs
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\obj\Debug\netcoreapp2.0\for-loop.dll
+C:\Users\opilane\Desktop\rock-paper-scissors vol2\for-loop\obj\Debug\netcoreapp2.0\for-loop.pdb
